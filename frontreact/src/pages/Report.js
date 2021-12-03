@@ -6,7 +6,12 @@ export const Report = () => {
   const canvaRef = React.useRef(null);
   const [products, setProducts] = useState([]);
   useEffect(() => {
-    const canvas = d3.select(canvaRef.current);
+    fetch("/api/products?q=oil")
+      .then((res) => res.json())
+      .then((data) => {
+        setProducts(data);
+        console.log(data);
+        const canvas = d3.select(canvaRef.current);
     const width = 700;
     const height = 500;
     const margin = { top:10, left:50, bottom: 40, right: 10};
@@ -46,7 +51,9 @@ export const Report = () => {
     g.append("g")
     .classed("y--axis", true)
     .call(d3.axisLeft(y));
-  });
+      });
+    
+  },[]);
   
 
   return (
