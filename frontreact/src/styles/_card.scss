@@ -11,7 +11,7 @@
   cursor: pointer;
   border: 1px solid $isis3710-grey-10;
 
-  &.inactive {
+  & .inactive {
     filter: brightness(0.8) saturate(0) contrast(1.5) blur(1px);
     cursor: not-allowed;
   }
@@ -47,4 +47,6 @@
       font-size: 1.5rem;
     }
   }
+
+  
 }

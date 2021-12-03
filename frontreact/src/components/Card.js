@@ -6,10 +6,12 @@ import React from 'react';
  * @returns
  */
 export const Card = (props) => {
+  console.log(props);
   const { name, picture, price, isActive } = props;
   return (
-    <div>
-      <div className='card-header'>
+    <div className = {isActive ==='true'? "" : "inactive" }>
+    
+      <div className='card-header' >
         <p className='card-title'>{name}</p>
         <span className='material-icons card-favorite'>favorite_border</span>
       </div>
