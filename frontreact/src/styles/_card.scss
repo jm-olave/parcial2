@@ -1,0 +1,50 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 18rem;
+  background-color: $isis3710-white;
+  color: $isis3710-black;
+  padding: 0.5rem;
+  border-radius: 1rem;
+  cursor: pointer;
+  border: 1px solid $isis3710-grey-10;
+
+  &.inactive {
+    filter: brightness(0.8) saturate(0) contrast(1.5) blur(1px);
+    cursor: not-allowed;
+  }
+
+  &-header {
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+    justify-content: space-between;
+    padding: 0.5rem;
+  }
+
+  &-title {
+    font-size: 1.2rem;
+  }
+
+  &-favorite {
+    cursor: pointer;
+  }
+
+  &-img {
+    height: 21.875rem;
+    max-width: 10.9375rem;
+  }
+
+  &-bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    width: 100%;
+    padding: 1rem 0.25rem 0.5rem 0;
+    .price {
+      font-size: 1.5rem;
+    }
+  }
+}

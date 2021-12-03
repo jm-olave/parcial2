@@ -1,0 +1,13 @@
+.home {
+  &-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  &-card {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+}
