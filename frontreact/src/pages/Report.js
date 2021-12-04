@@ -20,7 +20,7 @@ export const Report = () => {
   svg.attr("height", height);
   
   let g = svg.append("g").attr("transform", `translate(${margin.left},${margin.top})`);
-
+  var tooltip = d3.select("body").append("div").attr("class", "toolTip");
   
   const y = d3.scaleLinear() 
       .domain([0, 500])
@@ -49,11 +49,25 @@ export const Report = () => {
   g.append("g")
   .classed("y--axis", true)
   .call(d3.axisLeft(y));
-
+// added toolyip 
+g.selectAll(".bar")
+.data(products)
+.enter().append("rect")
+.attr("x", function(d) { return x(d.area); })
+.attr("y", function(d) { return y(d.value); })
+.attr("width", x.bandwidth())
+.attr("height", function(d) { return height - y(d.value); })
+.on("mousemove", function(d){
+    tooltip
+      .style("left", d3 - 50 + "px")
+      .style("top", d3 - 70 + "px")
+      .style("display", "inline-block")
+      .html((d.area) + "<br>" + "£" + (d.value));
+})
+.on("mouseout", function(d){ tooltip.style("display", "none");});
   return (
     <section id='report'>
       <div className='report-container'>
-        <h1>Unidades en inventario</h1>
         <div id = "canvas" />
       </div>
     </section>
