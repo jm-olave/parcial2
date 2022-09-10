@@ -1,6 +1,6 @@
-<mxfile modified="2022-08-29T17:16:34.360Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="8XGAekg-SWvpb1UwO3Rs" version="20.2.7" type="github">
+<mxfile modified="2022-09-10T02:48:35.174Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="-kB-rh9LIoJ9v_lAHHma" version="20.2.8" type="github">
   <diagram id="FEKjINcDisIPV5KZee3t" name="Page-1">
-    <mxGraphModel dx="2607" dy="1427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,28 +19,28 @@
         <mxCell id="aELBI8OFU14AnCiIAI6i-5" value="" style="fillColor=#158EBA;strokeColor=none;opacity=50;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="577.5" width="1460" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aELBI8OFU14AnCiIAI6i-6" value="don&#39;t take public transport and travel to the university on her parent&#39;s car" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Tahoma;fontSize=23;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1113" y="468" width="360" height="80" as="geometry" />
+        <mxCell id="aELBI8OFU14AnCiIAI6i-6" value="take less time taking care of the cars issues" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Tahoma;fontSize=23;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="458" width="360" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aELBI8OFU14AnCiIAI6i-7" value="finish her undergraduate degree and continue her studies" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Tahoma;fontSize=23;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="473" y="468" width="437" height="80" as="geometry" />
+        <mxCell id="aELBI8OFU14AnCiIAI6i-7" value="arrive early to the University" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Tahoma;fontSize=23;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="473" y="458" width="437" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aELBI8OFU14AnCiIAI6i-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="1" source="aELBI8OFU14AnCiIAI6i-9" target="aELBI8OFU14AnCiIAI6i-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aELBI8OFU14AnCiIAI6i-9" value="have a stable income " style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="aELBI8OFU14AnCiIAI6i-9" value="have the car full fixed" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="360" y="678" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aELBI8OFU14AnCiIAI6i-10" value="get recognition and prestige " style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="aELBI8OFU14AnCiIAI6i-10" value="using the cars she has to arrive early " style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="634" y="678" width="253" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aELBI8OFU14AnCiIAI6i-11" value="get her diploma on an average of 4 year time " style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="aELBI8OFU14AnCiIAI6i-11" value="arrive on time to classes" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="723" y="593" width="267" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aELBI8OFU14AnCiIAI6i-12" value="spend less time taking time on house chores and car revisions" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Tahoma;fontSize=16;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="aELBI8OFU14AnCiIAI6i-12" value="have more free time and resources for studying and focusing on her goals" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Tahoma;fontSize=16;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1053" y="678" width="207" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aELBI8OFU14AnCiIAI6i-13" value="financially supported by her parents" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="aELBI8OFU14AnCiIAI6i-13" value="fulfill her academic responsibilities" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Tahoma;fontSize=19;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1310" y="588" width="223" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aELBI8OFU14AnCiIAI6i-14" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" parent="1" source="aELBI8OFU14AnCiIAI6i-7" target="aELBI8OFU14AnCiIAI6i-9" edge="1">
@@ -93,7 +93,7 @@
         <mxCell id="aELBI8OFU14AnCiIAI6i-20" value="&lt;h1 style=&quot;font-size: 26px&quot;&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;Desires &amp;amp; Motivations&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Tahoma;align=center;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="143.5" y="667" width="217" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="aELBI8OFU14AnCiIAI6i-21" value="Having a diploma will give her financial freedom and access to the laboral world, which in return  would open her more options to pursue higher education and money." style="rounded=1;fillColor=#12AAB5;strokeColor=#6c8ebf;fontColor=#000000;fontStyle=0;fontFamily=Tahoma;fontSize=23;labelBackgroundColor=none;opacity=60;arcSize=6;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="aELBI8OFU14AnCiIAI6i-21" value="her parent&#39;ts car is old and presents issues regularly" style="rounded=1;fillColor=#12AAB5;strokeColor=#6c8ebf;fontColor=#000000;fontStyle=0;fontFamily=Tahoma;fontSize=23;labelBackgroundColor=none;opacity=60;arcSize=6;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="407" y="783" width="480" height="149" as="geometry" />
         </mxCell>
         <mxCell id="aELBI8OFU14AnCiIAI6i-22" value="&lt;h1 style=&quot;font-size: 50px;&quot;&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;Why?&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Tahoma;align=center;fontSize=50;verticalAlign=middle;" parent="1" vertex="1">
@@ -108,10 +108,10 @@
         <mxCell id="aELBI8OFU14AnCiIAI6i-25" value="&lt;h1&gt;&lt;font style=&quot;font-size: 60px&quot;&gt;Persona &lt;/font&gt;&lt;font style=&quot;font-size: 40px&quot;&gt;Pain Points&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;What difficulties does the Persona have? What impediments?&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Tahoma;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="91" y="971.5" width="270" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="aELBI8OFU14AnCiIAI6i-26" value="time constraints on family time and other activities" style="rounded=1;fillColor=#F86459;gradientColor=none;strokeColor=#B85450;fontColor=#000000;fontStyle=0;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;labelBackgroundColor=none;opacity=80;" parent="1" vertex="1">
+        <mxCell id="aELBI8OFU14AnCiIAI6i-26" value="she leaves far away and has no access to public transport " style="rounded=1;fillColor=#F86459;gradientColor=none;strokeColor=#B85450;fontColor=#000000;fontStyle=0;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;labelBackgroundColor=none;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="417" y="993" width="460" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="aELBI8OFU14AnCiIAI6i-27" value="soon to finish her career, looking for job options for extra income " style="rounded=1;fillColor=#F86459;gradientColor=none;strokeColor=#B85450;fontColor=#000000;fontStyle=0;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;labelBackgroundColor=none;opacity=80;" parent="1" vertex="1">
+        <mxCell id="aELBI8OFU14AnCiIAI6i-27" value="she leaves college at night or the afternoon wich is dangerous if she takes public transport " style="rounded=1;fillColor=#F86459;gradientColor=none;strokeColor=#B85450;fontColor=#000000;fontStyle=0;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;labelBackgroundColor=none;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="417" y="1130" width="460" height="77" as="geometry" />
         </mxCell>
         <mxCell id="aELBI8OFU14AnCiIAI6i-28" value="she has little to no knowdlege regarding a car technical revision " style="rounded=1;fillColor=#F86459;gradientColor=none;strokeColor=#B85450;fontColor=#000000;fontStyle=0;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;labelBackgroundColor=none;opacity=80;" parent="1" vertex="1">
@@ -217,10 +217,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aELBI8OFU14AnCiIAI6i-40" value="her budget for things like fixing the car and taking care of it is narrow and limited." style="rounded=1;fillColor=#5490DE;strokeColor=none;fontColor=#000000;fontStyle=0;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;spacingLeft=10;spacingRight=10;opacity=80;" parent="1" vertex="1">
+        <mxCell id="aELBI8OFU14AnCiIAI6i-40" value="since she can&#39;t fix the car by herslef she requires help of an expert that can take hours on technical inspections and money" style="rounded=1;fillColor=#5490DE;strokeColor=none;fontColor=#000000;fontStyle=0;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;spacingLeft=10;spacingRight=10;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="417" y="1241.5" width="460" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="aELBI8OFU14AnCiIAI6i-41" value="public transport is crowed and insecure, her only source of secure transport is her parent&#39;s car that takes every day to the University. " style="rounded=1;fillColor=#5490DE;strokeColor=none;fontColor=#000000;fontStyle=0;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;spacingLeft=10;spacingRight=10;opacity=80;" parent="1" vertex="1">
+        <mxCell id="aELBI8OFU14AnCiIAI6i-41" value="given the time she spends on other social aspects, she would like to not be in her schedule things related to the car." style="rounded=1;fillColor=#5490DE;strokeColor=none;fontColor=#000000;fontStyle=0;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;spacingLeft=10;spacingRight=10;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="1063" y="1241.5" width="460" height="110" as="geometry" />
         </mxCell>
         <mxCell id="aELBI8OFU14AnCiIAI6i-42" value="&lt;h1&gt;&lt;font style=&quot;font-size: 41px&quot;&gt;Persona&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Who is the persona?&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Tahoma;align=center;" parent="1" vertex="1">
@@ -271,7 +271,7 @@
         <mxCell id="aELBI8OFU14AnCiIAI6i-63" value="lives in the north of the city " style="rounded=1;fillColor=#275DAD;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Tahoma;fontSize=23;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1310" y="328" width="215" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="aELBI8OFU14AnCiIAI6i-65" value="windows laptopo" style="rounded=1;fillColor=#60495A;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;spacingLeft=10;spacingRight=10;opacity=80;" parent="1" vertex="1">
+        <mxCell id="aELBI8OFU14AnCiIAI6i-65" value="windows laptop" style="rounded=1;fillColor=#60495A;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;spacingLeft=10;spacingRight=10;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="1110" y="1505" width="200" height="155" as="geometry" />
         </mxCell>
         <mxCell id="aELBI8OFU14AnCiIAI6i-66" value="iphone 12 with iOS 15 or higher or high end android device " style="rounded=1;fillColor=#60495A;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;spacingLeft=10;spacingRight=10;opacity=80;" parent="1" vertex="1">
